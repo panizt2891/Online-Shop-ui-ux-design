@@ -21,6 +21,7 @@ Designed Pages
 Prototype
 
 "View the Figma Prototype" (https://www.figma.com/proto/MILgZy9dcVF4c8HgElfKEc/Pan-online-shop?node-id=0-1&t=Nn1OcZJR3iKNneAx-1)
+
 Screenshots
 
 "Screenshot 1" (IMG_20260909_205158_972.jpg)
